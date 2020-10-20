@@ -1,0 +1,7 @@
+- name:      Derrick
+  github:    artemsheludko/derrick
+  demo_url:  https://artemsheludko.github.io/derrick/
+  author:    Artem Sheludko
+  thumbnail: derrick-small.jpg
+  license:   MIT
+  tags:      [fast, personal, clean, minimal, simple responsive, blog, writing, mobile-friendly]
